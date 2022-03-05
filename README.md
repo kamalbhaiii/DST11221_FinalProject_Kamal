@@ -1,7 +1,7 @@
 # DST11221_FinalProject_Kamal
-<div style="background-color:yellow">
+```
 This repo is to fulfill the requirement of final project required to submit for Data Science Training by DevTown.
-</div>
+```
 
 ML Project for predicting whether the students possess the entrepreneurship skills.
 
