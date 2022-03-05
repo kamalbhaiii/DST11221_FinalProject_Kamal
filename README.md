@@ -5,6 +5,10 @@ This repo is to fulfill the requirement of final project required to submit for 
 
 ML Project for predicting whether the students possess the entrepreneurship skills.
 
+## Data Required:
+Get data [here](https://www.kaggle.com/tunahandeniz/predict-entrepreneurial-competency/data)
+
+
 ## Required Softwares (Any One):
 * Jupyter Notebook
 * Google Colaboratory
@@ -48,9 +52,14 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, f1_score, r2_score
 ```
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
 #
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kamalsharma05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalsharma05" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_kamalsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_kamalsharma" height="30" width="40" /></a>
+</p>
